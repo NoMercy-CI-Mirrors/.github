@@ -1,0 +1,2 @@
+Logo based on the Git logo by Jason Long, licensed CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/).
+Changes: recolored to #6E56CF and mirrored across a line.
